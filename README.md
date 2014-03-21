@@ -14,8 +14,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Tradecoin is also the name of the open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Tradecoin client software, see http://www.coingen.io.
 
 License
 -------
