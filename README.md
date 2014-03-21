@@ -1,9 +1,10 @@
 Tradecoin integration/staging tree
 ================================
 
-http://www.coingen.io
+
 
 Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2014 5mil
 
 What is Tradecoin?
 ----------------
